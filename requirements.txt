@@ -1,0 +1,5 @@
+python-docx>=0.8.11 
+PyPDF2>=3.0.1 
+python-pptx>=0.6.21 
+transformers>=4.35.2 
+torch>=2.0.1
